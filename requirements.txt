@@ -1,0 +1,11 @@
+###### Requirements without Version Specifiers ######`
+matplotlib
+seaborn
+plotly
+
+streamlit
+
+streamlit-aggrid
+streamlit-image-coordinates
+
+opencv-python
